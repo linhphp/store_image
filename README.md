@@ -1,1 +1,1 @@
-# store_image
+# store image
